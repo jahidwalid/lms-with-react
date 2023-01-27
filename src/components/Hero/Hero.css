@@ -1,0 +1,8 @@
+.hero-container{
+    background: url(https://instructory.net/assets/images/bg-1.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 700px;
+    color: white;
+  }
+  
