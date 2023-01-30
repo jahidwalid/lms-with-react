@@ -28,3 +28,51 @@ body{
 .navbar-light .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 30 30%27%3e%3cpath stroke=%27rgba%285, 355, 314, 401%27 stroke-linecap=%27round%27 stroke-miterlimit=%2710%27 stroke-width=%272%27 d=%27M4 7h22M4 15h22M4 23h22%27/%3e%3c/svg%3e");
 }
+.hero-content{
+   padding: 80px 0px;
+}
+.hero-content h5{
+  color: #eeeeee;
+  font-size:22px ;
+  line-height: 30px;
+  font-weight: 400;
+  padding-bottom: 20px;
+  letter-spacing: 5px;
+}
+.hero-content h2{
+  font-size: 36px;
+  color: white;
+  line-height: 36px;
+  font-weight: 600;
+  padding-bottom: 30px;
+  letter-spacing: 3px;
+}
+.hero-content p{
+  font-size: 18px;
+  line-height: 35px;
+  color: #eeeeee;
+  font-weight: 300;
+}
+.hero-content button{
+  padding: 12px 36px;
+  background: #ffa146;
+  border: 1px solid white;
+}
+.search-form{
+  margin-top: 50px;
+}
+.search-form input{
+  width: 80%;
+  padding: 14px;
+  border: 2px solid #e5e5e5;
+
+}
+.search-form button{
+  width: 20%;
+  border: none;
+  background: #1aa3d0;
+  color: white;
+  font-size: 16px;
+  padding: 16px 12px;
+  border-radius: 0px 5px 5px 0px;
+}
