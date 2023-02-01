@@ -25,9 +25,11 @@ img{
 
 }
 .price-and-btn h5{
-    font-weight: 700;
-    font-size: 24px;
+    font-weight: 800;
+    font-size: 26px;
     margin-top: 10px;
+    color: #00a99d;
+    font-family: Poppins, sans-serif;
 }
 .course-title{
     font-weight: 600;
@@ -36,4 +38,16 @@ img{
     white-space: nowrap;
     overflow: hidden;
 
+}
+.course-item-box-bottom p i{
+    color: #ffd558;
+    font-size: 20px;
+}
+.name-icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+.name h6{
+    color: rgb(91, 91, 91);
 }
