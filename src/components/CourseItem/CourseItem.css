@@ -1,0 +1,39 @@
+.course-item-box{
+    background: rgb(255, 255, 255);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+.course-item-box-bottom{
+    padding: 8px;
+}
+img{
+    width: 100%;
+}
+.price-and-btn{
+    justify-content: space-between;
+}
+.price-and-btn button{
+    border: none;
+    font-size: 15px;
+    font-weight: 500;
+    background: #1aa3d0;
+    color: white;
+    border-radius: 50px;
+    padding: 8px 12px;
+    margin-bottom: 8px;
+
+}
+.price-and-btn h5{
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 10px;
+}
+.course-title{
+    font-weight: 600;
+    font-size: 16px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+
+}

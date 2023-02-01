@@ -1,0 +1,18 @@
+.search-form{
+    margin-top: 50px;
+  }
+  .search-form input{
+    width: 80%;
+    padding: 14px;
+    border: 2px solid #e5e5e5;
+  
+  }
+  .search-form button{
+    width: 20%;
+    border: none;
+    background: #1aa3d0;
+    color: white;
+    font-size: 16px;
+    padding: 16px 12px;
+    border-radius: 0px 5px 5px 0px;
+  }
