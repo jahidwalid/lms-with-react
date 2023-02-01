@@ -18,7 +18,7 @@ const CourseItem = () => {
                         <h6>{data.instructor}</h6>
                         </div>
                         <div className="icon">
-                        <i class="fa-sharp fa-solid fa-cart-shopping"></i> <i class="fa-solid fa-heart"></i> <i class="fa-solid fa-star"></i> <i class="fa-solid fa-share-nodes"></i>
+                        <i style={{color:"#87af4e"}} class="fa-sharp fa-solid fa-cart-shopping"></i> <i style={{color:"#ff4669"}}  class="fa-solid fa-heart"></i> <i style={{color:"#3eb7de"}}  class="fa-solid fa-star"></i> <i class="fa-solid fa-share-nodes"></i>
                         </div>
                     </div>
                     <p className='course-title'>{data.title}</p>
