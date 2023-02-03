@@ -1,0 +1,44 @@
+#footer{
+    background-image: url(https://instructory.net/assets/images/footer_bg.jpg);
+    background-size: cover;
+    width: 100%;
+    margin-top: 80px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.footer-logo img{
+    width: 180px;
+}
+.footer-logo p{
+    color: #eeeeee;
+    font-size: 16px;
+    line-height: 23px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+.use-link ul li{
+    color: white;
+    list-style: none;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.use-link ul{
+    padding: 0;
+}
+.use-link h4{
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+.use-link-text-divider{
+    width: 80%;
+    height: 2px;
+    background: white;
+    margin-bottom: 10px;
+}
+.copy-right{
+    text-align: center;
+    color: #eeeeee;
+}

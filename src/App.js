@@ -1,4 +1,5 @@
 import './App.css';
+import Footer from './components/Footer/Footer';
 
 import Hero from './components/Hero/Hero.js';
 import Navbar from './components/Navbar/Navbar.js';
@@ -22,7 +23,7 @@ function App() {
     <Titlecourse title='HIGHEST SELLING COURSES'/>
     <Titlecourse title="INSTRUCTOR'S COURSE FEED"/>
     
-    
+    <Footer/>
     
     </div>
   );
